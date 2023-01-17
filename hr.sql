@@ -1,5 +1,6 @@
+hashd
 --software developement life cycle
-
+this is my first git planning
  requirement gathering-->requirement analysis-->design  -->coding -->testing --->release  -->mantainance
  
  1>waterfall model
@@ -11,7 +12,7 @@
  7>fish model
  8>v model
  9>agile model(latest)
- 
+ i have added some files
 -->waterfall model
 *it is the oldest SDLC model
 *in this model each phase must be completed before the next phase can begin and there
